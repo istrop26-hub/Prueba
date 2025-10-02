@@ -14,6 +14,6 @@ Este es un ejemplo de proyecto para aprender Git y GitHub.
 ## Autor
 Hecho por Juan Pérez
 
-![Color ejemplo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa2_sgpXvVXp16uvdoK2sL5qDla_aXkPvKbg&s)
+![Imagen random](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa2_sgpXvVXp16uvdoK2sL5qDla_aXkPvKbg&s)
 
 ✅ Completado
