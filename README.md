@@ -13,3 +13,5 @@ Este es un ejemplo de proyecto para aprender Git y GitHub.
 
 ## Autor
 Hecho por Juan Pérez
+
+✅ Completado
