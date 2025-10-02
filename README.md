@@ -1,8 +1,5 @@
 # Mi Primer Proyecto
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-
-
 Este es un ejemplo de proyecto para aprender Git y GitHub.
 
 ## ¿Qué hace?
